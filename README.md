@@ -28,6 +28,6 @@ Developed by **Ehsan Fazli**.
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/apk-super-signer-pro.git
+git clone https://github.com/TssHack/apk-signer.git
 cd apk-super-signer-pro
 ```
